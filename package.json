@@ -1,0 +1,19 @@
+{
+  "name": "chatster",
+  "version": "1.0.0",
+  "description": "A simple chat server",
+  "main": "index.js",
+  "dependencies": {
+    "cylon": "^1.2.0",
+    "cylon-ollie": "^0.8.0",
+    "ember-cli": "^1.13.12",
+    "express": "^4.13.4",
+    "socket.io": "^1.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
